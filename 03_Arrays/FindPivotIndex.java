@@ -32,4 +32,4 @@ public class FindPivotIndex {
 
         System.out.println(ans);
     }
-}
+} 
